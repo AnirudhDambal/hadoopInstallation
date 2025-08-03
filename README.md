@@ -181,10 +181,3 @@ stop-dfs.sh
 ## 🧠 Author
 
 Anirudh Dambal — [GitHub](https://github.com/AnirudhDambal)
-
-```
-
----
-
-Let me know if you want the above saved into an actual file or if you'd like a version tailored for GitHub repo presentation.
-```
