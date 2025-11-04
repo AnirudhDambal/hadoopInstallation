@@ -311,23 +311,7 @@ hdfs dfs -get /user/hadoopuser/pig_output/word_count ./local_output/
 
 ---
 
-## Key Concepts Demonstrated
 
-### Relational Operators
-- **FILTER**: Filter rows based on conditions
-- **JOIN**: Combine data from multiple sources
-- **GROUP**: Group data by key
-- **ORDER**: Sort data
-
-### Eval Functions
-- **SUM**: Sum of numeric values
-- **AVG**: Average of numeric values
-- **COUNT**: Count of records
-
-### Complex Data Types
-- **Tuple**: Ordered collection of fields `(field1, field2, ...)`
-- **Bag**: Collection of tuples `{(tuple1), (tuple2), ...}`
-- **Map**: Key-value pairs `['key1'#value1, 'key2'#value2]`
 
 ### Word Count Steps
 1. Load text data
@@ -519,4 +503,5 @@ If you encounter issues not covered in this guide:
 ---
 
 **Installation and Execution Complete!** You can now use Apache Pig for your Big Data evaluation.
+
 
