@@ -1,0 +1,11 @@
+The quick brown fox jumps over the lazy dog
+Big data analytics is essential for modern businesses
+Hadoop is a powerful framework for distributed processing
+Apache Pig makes data analysis easier
+MapReduce is a programming model for processing large datasets
+The Hadoop ecosystem includes many tools
+Hive provides SQL-like interface for Hadoop
+Pig Latin is a data flow language
+Big data requires distributed storage and processing
+Data analytics helps in decision making
+
