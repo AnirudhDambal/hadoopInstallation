@@ -1,0 +1,9 @@
+customer_id,customer_name,age,city,email
+201,John Doe,35,Mumbai,john.doe@email.com
+202,Jane Smith,28,Delhi,jane.smith@email.com
+203,Bob Johnson,42,Bangalore,bob.johnson@email.com
+204,Alice Brown,31,Hyderabad,alice.brown@email.com
+205,Charlie Wilson,45,Chennai,charlie.wilson@email.com
+206,Diana Prince,29,Pune,diana.prince@email.com
+207,Frank Miller,38,Kolkata,frank.miller@email.com
+

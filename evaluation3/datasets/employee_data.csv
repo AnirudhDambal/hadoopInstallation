@@ -1,0 +1,12 @@
+emp_id,emp_name,department,salary,join_date,age,city
+101,John Smith,IT,75000,2020-01-15,28,Mumbai
+102,Jane Doe,HR,60000,2019-03-20,32,Delhi
+103,Bob Johnson,Sales,65000,2021-06-10,35,Bangalore
+104,Alice Brown,IT,80000,2018-11-05,29,Hyderabad
+105,Charlie Wilson,Finance,70000,2020-09-12,42,Chennai
+106,Diana Prince,IT,85000,2019-07-18,31,Pune
+107,Frank Miller,Sales,68000,2021-02-25,38,Kolkata
+108,Grace Lee,HR,62000,2020-05-30,27,Mumbai
+109,Henry Davis,Finance,72000,2019-12-14,45,Delhi
+110,Iris Moore,IT,90000,2018-04-22,33,Bangalore
+

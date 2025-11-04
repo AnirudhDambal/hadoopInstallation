@@ -1,0 +1,12 @@
+order_id,customer_id,product_name,quantity,price,category,date
+1001,201, Laptop,2,45000,Electronics,2024-01-15
+1002,202, Smartphone,1,25000,Electronics,2024-01-16
+1003,203, Headphones,3,5000,Electronics,2024-01-17
+1004,201, Mouse,5,1500,Electronics,2024-01-18
+1005,204, Keyboard,2,3000,Electronics,2024-01-19
+1006,205, Monitor,1,20000,Electronics,2024-01-20
+1007,202, USB Drive,10,500,Electronics,2024-01-21
+1008,206, Tablet,1,30000,Electronics,2024-01-22
+1009,203, Webcam,2,4000,Electronics,2024-01-23
+1010,207, Printer,1,15000,Electronics,2024-01-24
+
